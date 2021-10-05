@@ -10,7 +10,7 @@ public class DiskSearcher {
     // these thresholds are also important for determine the mileStones queue capacity (potential milestones that will be there, see piazza).
     static final int RESULTS_QUEUE_CAPACITY = 50;
     static final int DIRECTORY_QUEUE_CAPACITY = 10;
-
+    // new comment
     public static void main(String[] args){
         long startTime = System.currentTimeMillis();
 

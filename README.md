@@ -12,6 +12,6 @@ it checks for each file name if it has the correct extension. Files that have th
 extension are enqueued to the results queue (to be copied).
 
 Copier - This class reads a file from the results queue (the queue of files that contains the output of
-the searchers), and copies it into the specified destination directory.
+the searcher), and copies it into the specified destination directory.
 
 ![image](https://user-images.githubusercontent.com/83776265/126750815-bf6c60ab-e64b-4cca-a69f-97ca435da61b.png)

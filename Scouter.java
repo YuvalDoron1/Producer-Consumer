@@ -7,7 +7,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 public class Scouter implements Runnable{
-    // new comment
+    // new comment!
     private int id;
     private SynchronizedQueue<File> directoryQueue;
     private File root;
